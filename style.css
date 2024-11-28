@@ -1,0 +1,386 @@
+body {
+    box-sizing: border-box;
+ background-color:azure;
+ margin-left: 3%;
+ 
+ 
+
+}
+
+.restaurante{
+    list-style: none;
+}
+
+.notarest{
+    font-family:"Poppins", sans-serif; ;
+    color:#ffdb58
+    
+}
+
+.lista{
+   
+    font-family:"Poppins", sans-serif; ;
+    
+}
+
+.mensagem{
+    font-size: 1.1em;
+    font-family: "Poppins", sans-serif;
+    margin : 5%;
+    display: flex;
+    justify-content: center;
+}
+.mensagemsec{
+    font-family: "Poppins", sans-serif;
+    font-size: 1.1em;
+    margin: 5%;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.imagembigburgersoledade{
+    
+    width: 50%;
+}
+
+.fabianapizza{
+    width: 65%;
+
+}
+
+.megalanches{
+    width:50% ;
+}
+
+.bigssl{
+    width: 71%;
+}
+
+.tiadina{
+    width: 72%;
+}
+
+.padariasl{
+    width: 73%;
+}
+
+.cirolanche {
+ width: 72%;
+}
+
+.mamia{
+    width: 73%;
+}
+
+
+.kigelo{
+    width: 48%;
+}
+
+.rbom{
+    width: 48%;
+}
+
+.esquina{
+    width: 73%;
+}
+
+.soleneve{
+    width: 71%;
+}
+
+.kisabor{
+    width: 70%;
+}
+
+.paladar{
+    width: 67%;
+}
+
+.coreto{
+    width: 68%;
+}
+
+.mcnic{
+    width: 67%;
+}
+
+.china{
+    width: 67%;
+}
+
+.keromais{
+    width: 69%;
+}
+
+.gloria{
+    width: 68%;
+}
+
+.pernil{
+    width: 70%;
+}
+
+.amarelo{
+    width: 70%;
+}
+
+.acai{
+    width: 68%;
+}
+
+.beleza{
+    width: 57%;
+}
+
+.san{
+    width: 58%;
+}
+
+.ponto{
+    width: 69%;
+}
+
+.gospel{
+    width: 66%;
+}
+
+.empada{
+    width: 54%;
+}
+
+.molinari{
+    width: 73%;
+
+}
+
+.meusite{
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    font-family:"Poppins", sans-serif; ;
+    color:black ;
+}
+
+
+
+
+@media screen and (min-width: 412px){
+    .mensagem{
+        font-size: 1.1em;
+        margin :  5% 11%;
+        display: flex;
+        justify-content: center;
+    }
+    .mensagemsec{
+        font-size: 1.1em;
+        margin:  5% 11%;
+        display: flex;
+        justify-content: center;
+    }
+    
+    .restaurante{
+        margin-top: 3.2% ;
+    }
+
+
+   
+}
+
+
+@media screen and (min-width: 1200px) {
+    body {
+        box-sizing: border-box;
+     background-color:azure;
+     margin-left: 3%;
+     
+     
+     
+     
+     
+    
+    }
+    .mensagem{
+        font-size: 2.1em;
+        margin :  3% 11%;
+        display: flex;
+        justify-content: center;
+    }
+    .mensagemsec{
+        font-size: 2.1em;
+        margin:  5% 11%;
+        display: flex;
+        justify-content: center;
+    }
+
+    .restaurante{
+        margin-top: 6%;
+        margin-left: 31%;
+        
+        font-size: 2.3em;
+    }
+
+   
+
+   
+    .imagembigburgersoledade{
+        margin-top: 0.3%;
+        margin-left: 31%;
+        width: 24%;
+    }
+    
+
+
+    .fabianapizza{
+        margin-left: 31%;
+        width: 34%;
+    
+    }
+    
+    .megalanches{
+        width:31% ;
+        margin-left: 31%;
+    }
+    
+    .bigssl{
+        width: 41%;
+        margin-left: 31%;
+    }
+    
+    .tiadina{
+        width: 40%;
+        margin-left: 31%;
+    }
+    
+    .padariasl{
+        width: 40%;
+        margin-left: 31%;
+    }
+    
+    .cirolanche {
+     width: 40%;
+     margin-left: 31%;
+    }
+    
+    .mamia{
+        width: 40%;
+        margin-left: 31%;
+    }
+    
+    
+    .kigelo{
+        width: 34%;
+        margin-left: 31%;
+    }
+    
+    .rbom{
+        width: 35%;
+        margin-left: 31%;
+    }
+    
+    .esquina{
+        width: 40%;
+        margin-left: 31%;
+    }
+    
+    .soleneve{
+        width: 40%;
+        margin-left: 31%;
+    }
+    
+    .kisabor{
+        width: 40%;
+        margin-left: 31%;
+    }
+    
+    .paladar{
+        width: 32%;
+        margin-left: 31%;
+    }
+    
+    .coreto{
+        width: 39%;
+        margin-left: 31%;
+    }
+    
+    .mcnic{
+        width: 40%;
+        margin-left: 31%;
+    }
+    
+    .china{
+        width: 40%;
+        margin-left: 31%;
+    }
+    
+    .keromais{
+        width: 40%;
+        margin-left: 31%;
+    }
+    
+    .gloria{
+        width: 40%;
+        margin-left: 31%;
+    }
+    
+    .pernil{
+        width: 40%;
+        margin-left: 31%;
+    }
+    
+    .amarelo{
+        width: 40%;
+        margin-left: 31%;
+    }
+    
+    .acai{
+        width: 40%;
+        margin-left: 31%;
+    }
+    
+    .beleza{
+        width: 40%;
+        margin-left: 31%;
+    }
+    
+    .san{
+        width: 40%;
+        margin-left: 31%;
+    }
+    
+    .ponto{
+        width: 40%;
+        margin-left: 31%;
+    }
+    
+    .gospel{
+        width: 37%;
+        margin-left: 31%;
+    }
+    
+    .empada{
+        width: 32%;
+        margin-left: 31%;
+    }
+    
+    .molinari{
+        width: 40%;
+        margin-left: 31%;
+    
+    }
+
+    .meusite{
+        margin-top: 7%;
+    }
+    
+
+}
+
+
+
+
+
+
+ 
